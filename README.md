@@ -18,3 +18,24 @@ Back-End (Python with Flask):
 REST API: Develop a RESTful API with Flask that allows CRUD (Create, Read, Update, Delete) operations on tasks.
 Data Storage: Use a simple file-based storage system (e.g., JSON file) or a lightweight database (e.g., SQLite) to store task data.
 Endpoints: Implement endpoints for listing tasks, adding new tasks, updating tasks, and deleting tasks.
+
+Features to Implement:
+------------------------
+Task Addition: Add a form to allow users to input new tasks.
+
+Task Editing: Implement a way to edit existing tasks.
+
+Improved UI: Add more styling and responsiveness to the Flutter app.
+
+Error Handling: Enhance error handling and user feedback.
+
+This project provides a solid foundation for working with Dart and Python together. 
+
+You can expand it with additional features, such as user authentication or more complex task attributes, to increase its complexity and learn more about integrating these technologies.
+
+
+
+
+
+
+
